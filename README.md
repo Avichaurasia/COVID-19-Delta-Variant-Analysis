@@ -1,1 +1,1 @@
-# COVID-19-Delta-Variant-Analysis
+# covid-19-delta-variant-analysis
